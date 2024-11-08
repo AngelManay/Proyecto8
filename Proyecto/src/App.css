@@ -1,0 +1,28 @@
+#root {
+  text-align: start;
+  padding: 2rem;
+  width: 100%;
+}
+
+p {
+  font-size: 15px;
+}
+
+h4 {
+  margin-bottom: 20px;
+}
+
+.lista {
+  margin-bottom: 10px;
+}
+
+.total {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  background-color: rgba(0, 255, 132, 0.626);
+  padding: 12px;
+  border-radius: 3px;
+  border: solid black 1px;
+}
